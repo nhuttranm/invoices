@@ -1942,7 +1942,7 @@ browser-sync-webpack-plugin@^2.0.1:
   dependencies:
     lodash "^4"
 
-browser-sync@^2.26.7:
+browser-sync@^2.29.3:
   version "2.29.3"
   resolved "https://registry.yarnpkg.com/browser-sync/-/browser-sync-2.29.3.tgz#c2a3ff00c659eb87a13cae9d7a427e1b4b580ee1"
   dependencies:
